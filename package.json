@@ -1,0 +1,16 @@
+{
+  "name": "react-without_CRA",
+  "version": "1.0.0",
+  "description": "Refuse from create-react-app\r https://habr.com/ru/company/ruvds/blog/515008/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
